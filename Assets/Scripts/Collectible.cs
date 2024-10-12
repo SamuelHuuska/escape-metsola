@@ -19,7 +19,7 @@ public class Collectible : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Character"))
+        if (other.CompareTag("Player"))
         {
             CollectibleCount.IncreaseScore();
             gameObject.SetActive(false);
