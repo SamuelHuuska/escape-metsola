@@ -10,18 +10,20 @@ public class Triggerdoorcontroller : MonoBehaviour
 
     [SerializeField] private bool closeTrigger = false;
 
+    [SerializeField] private string doorOpen = "Door animation";
+    [SerializeField] private string doorClose = "Doorclose animation";
     private void OnTriggerEnter(Collider other)
     {
         if(other.CompareTag("Player"))
         {
             if (openTrigger)
             {
-                mydoor.Play("Door animation", 0, 0.0f);
+                mydoor.Play(doorOpen, 0, 0.0f);
                 gameObject.SetActive(false);
             }
             else if (closeTrigger)
             {
-                mydoor.Play("Doorclose animation", 0, 0.0f);
+                mydoor.Play(doorClose, 0, 0.0f);
                 gameObject.SetActive(false);
             }
         }
