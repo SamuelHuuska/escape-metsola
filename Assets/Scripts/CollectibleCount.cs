@@ -10,12 +10,12 @@ public class CollectibleCount : MonoBehaviour
 
     void Start()
     {
-        ScoreText.text = "Score: " + score;
+        ScoreText.text = score + "/8";
     }
 
     public void IncreaseScore()
     {
         score++;
-        ScoreText.text = "Score: " + score;
+        ScoreText.text = score + "/8";
     }
 }
