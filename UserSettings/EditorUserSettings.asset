@@ -6,16 +6,27 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
+<<<<<<< HEAD
       value: 5306075403075e025f0d5f7447210844444f1b297b7b70667b2c4532e4e2323b
       flags: 0
     RecentlyUsedSceneGuid-1:
       value: 5b5255025402500d090a592114205d44174f4e727f2970317f2c1966b2e1646e
+=======
+      value: 5b5255025402500d090a592114205d44174f4e727f2970317f2c1966b2e1646e
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+>>>>>>> Hemuli
       flags: 0
     RecentlyUsedSceneGuid-2:
       value: 5606005750505c5e550d0f7b48755c444f164d2b75792568742c4466bbb9603e
       flags: 0
     RecentlyUsedSceneGuid-3:
+<<<<<<< HEAD
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+=======
+      value: 5704515055020a5d59595b7342270b4415154e7d2a7023332b704963e6e66361
+>>>>>>> Hemuli
       flags: 0
     RecentlyUsedSceneGuid-4:
       value: 0203035e56005f0b5a0b5c7041755a4443164c2f7f7e71312f7e1861bbe5313d
