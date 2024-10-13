@@ -15,10 +15,14 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Veeti
     x: 0
     y: 43
     width: 3440
     height: 1349
+<<<<<<< HEAD
 =======
     x: 496
     y: 254
@@ -35,6 +39,14 @@ MonoBehaviour:
 =======
   m_Maximized: 0
 >>>>>>> Kaspian
+=======
+  m_ShowMode: 4
+  m_Title: Scene
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+>>>>>>> Veeti
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -55,11 +67,15 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Veeti
     width: 3440
     height: 1299
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 49
 =======
     width: 1206
@@ -69,6 +85,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 37
 >>>>>>> Kaspian
+=======
+  controlID: 47
+>>>>>>> Veeti
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -86,6 +105,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2627
     y: 0
     width: 813
@@ -100,6 +120,14 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> Kaspian
+=======
+    x: 2628
+    y: 0
+    width: 812
+    height: 1299
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> Veeti
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -123,12 +151,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 651
     height: 769
 =======
     width: 228
     height: 394
 >>>>>>> Kaspian
+=======
+    width: 650
+    height: 900
+>>>>>>> Veeti
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -153,6 +186,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 769
     width: 2627
     height: 530
@@ -161,6 +195,11 @@ MonoBehaviour:
     width: 921
     height: 271
 >>>>>>> Kaspian
+=======
+    y: 900
+    width: 2628
+    height: 399
+>>>>>>> Veeti
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -190,12 +229,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 3440
     height: 1349
 =======
     width: 1206
     height: 715
 >>>>>>> Kaspian
+=======
+    width: 3440
+    height: 1349
+>>>>>>> Veeti
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -220,10 +264,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 3440
 =======
     width: 1206
 >>>>>>> Kaspian
+=======
+    width: 3440
+>>>>>>> Veeti
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -245,12 +293,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 1329
     width: 3440
 =======
     y: 695
     width: 1206
 >>>>>>> Kaspian
+=======
+    y: 1329
+    width: 3440
+>>>>>>> Veeti
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -274,11 +327,16 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2627
+=======
+    width: 2628
+>>>>>>> Veeti
     height: 1299
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 50
 =======
     width: 921
@@ -288,6 +346,9 @@ MonoBehaviour:
   vertical: 1
   controlID: 38
 >>>>>>> Kaspian
+=======
+  controlID: 48
+>>>>>>> Veeti
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -309,6 +370,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2627
     height: 769
   m_MinSize: {x: 200, y: 50}
@@ -318,11 +380,18 @@ MonoBehaviour:
 =======
     width: 921
     height: 394
+=======
+    width: 2628
+    height: 900
+>>>>>>> Veeti
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
   controlID: 39
+<<<<<<< HEAD
 >>>>>>> Kaspian
+=======
+>>>>>>> Veeti
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -340,6 +409,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 651
     y: 0
     width: 1976
@@ -350,6 +420,12 @@ MonoBehaviour:
     width: 693
     height: 394
 >>>>>>> Kaspian
+=======
+    x: 650
+    y: 0
+    width: 1978
+    height: 900
+>>>>>>> Veeti
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -379,6 +455,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 842
     width: 2626
@@ -389,6 +466,12 @@ MonoBehaviour:
     width: 920
     height: 250
 >>>>>>> Kaspian
+=======
+    x: 0
+    y: 973
+    width: 2627
+    height: 378
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -410,7 +493,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
+=======
+    - Assets/Scenes/bench_materials/Materials
+>>>>>>> Veeti
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -418,6 +505,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - Assets
   m_LastFoldersGridSize: -1
@@ -427,10 +515,16 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\teiki.sellgren\GameJam\escape-metsola
 >>>>>>> Kaspian
+=======
+  - Assets/Scenes/bench_materials/Materials
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\veeti.laitinen\Documents\FUX_GameJam\escape-metsola
+>>>>>>> Veeti
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 125a0000
     m_LastClickedID: 23058
@@ -443,17 +537,26 @@ MonoBehaviour:
     m_SelectedIDs: ac590000
     m_LastClickedID: 22956
     m_ExpandedIDs: 00000000ac59000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 085b0000
+    m_LastClickedID: 23304
+    m_ExpandedIDs: 00000000a4590000aa590000045b000000ca9a3bffffff7f
+>>>>>>> Veeti
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
       m_OriginalName: 
+<<<<<<< HEAD
 >>>>>>> Kaspian
+=======
+>>>>>>> Veeti
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_UserData: 23170
       m_IsWaitingForDelay: 0
@@ -462,13 +565,18 @@ MonoBehaviour:
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
 =======
+=======
+>>>>>>> Veeti
       m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 0}
+<<<<<<< HEAD
 >>>>>>> Kaspian
+=======
+>>>>>>> Veeti
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -481,10 +589,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000125a0000
 =======
     m_ExpandedIDs: 00000000ac590000
 >>>>>>> Kaspian
+=======
+    m_ExpandedIDs: 00000000a4590000
+>>>>>>> Veeti
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,8 +623,13 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000ce590000
+>>>>>>> Veeti
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -561,6 +678,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2627
     y: 73
     width: 812
@@ -571,6 +689,12 @@ MonoBehaviour:
     width: 284
     height: 644
 >>>>>>> Kaspian
+=======
+    x: 2628
+    y: 73
+    width: 811
+    height: 1278
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -615,6 +739,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 73
     width: 650
@@ -625,6 +750,12 @@ MonoBehaviour:
     width: 227
     height: 373
 >>>>>>> Kaspian
+=======
+    x: 0
+    y: 73
+    width: 649
+    height: 879
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -639,6 +770,7 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: d059fefff059feff005afeffae05ffff3806ffff4c06ffff8806ffffb806ffff1407ffff7c07ffffd407ffffe407ffffb408ffff2409ffff8c09ffffe409ffff8c0affff8e0bffff900bffff280dffffcc2fffff6430ffff5836ffff423cffff1044ffff5e44ffffbe4efffff25fffff9c63ffffa27afffff87affff767cffff5680ffffe283fffffc84ffff54beffffaabefffffedbffff2af2ffffe8faffffca5900009c5a0000ac5a0000ec6700000669000016690000287e00003a7e00004c7e0000587e0000
@@ -647,6 +779,11 @@ MonoBehaviour:
       m_LastClickedID: 23016
       m_ExpandedIDs: 16d8ffffa6f9ffff0cfbffffe8590000
 >>>>>>> Kaspian
+=======
+      m_SelectedIDs: 0c55ffff
+      m_LastClickedID: -43764
+      m_ExpandedIDs: 5a54ffff8e55fffff45affffce7fffffd07fffff9480ffffb88cffff5ac4ffff72d5ffff68f1ffff26fbffff
+>>>>>>> Veeti
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -662,7 +799,11 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 4}
+=======
+        m_ClientGUIView: {fileID: 0}
+>>>>>>> Veeti
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -691,6 +832,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 651
     y: 73
     width: 1974
@@ -701,6 +843,12 @@ MonoBehaviour:
     width: 691
     height: 373
 >>>>>>> Kaspian
+=======
+    x: 650
+    y: 73
+    width: 1976
+    height: 879
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -716,12 +864,17 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       snapOffset: {x: -174, y: -26}
       snapOffsetDelta: {x: 0, y: 0}
 =======
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: -174, y: -26}
 >>>>>>> Kaspian
+=======
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: -174, y: -26}
+>>>>>>> Veeti
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -993,7 +1146,11 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
+<<<<<<< HEAD
       snapOffset: {x: 48, y: 10}
+=======
+      snapOffset: {x: 48, y: 48}
+>>>>>>> Veeti
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
@@ -1013,6 +1170,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -17.513674, y: 16.035088, z: -4.5467453}
     speed: 2
     m_Value: {x: -17.513674, y: 16.035088, z: -4.5467453}
@@ -1021,6 +1179,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
 >>>>>>> Kaspian
+=======
+    m_Target: {x: -23.652071, y: -4.7784643, z: -28.325525}
+    speed: 2
+    m_Value: {x: -23.652071, y: -4.7784643, z: -28.325525}
+>>>>>>> Veeti
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1042,10 +1205,17 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
+<<<<<<< HEAD
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 0, y: 0}
+=======
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+>>>>>>> Veeti
     yGrid:
       m_Fade:
         m_Target: 1
@@ -1062,14 +1232,19 @@ MonoBehaviour:
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_Size: {x: 1, y: 1}
 =======
       m_Size: {x: 0, y: 0}
 >>>>>>> Kaspian
+=======
+      m_Size: {x: 0, y: 0}
+>>>>>>> Veeti
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 0.3075565, y: 0.5186443, z: -0.20703305, w: 0.77044}
     speed: 2
@@ -1087,11 +1262,21 @@ MonoBehaviour:
     speed: 2
     m_Value: 4.3217435
 >>>>>>> Kaspian
+=======
+    m_Target: {x: 0.05046703, y: -0.94106895, z: 0.16251461, w: 0.29234236}
+    speed: 2
+    m_Value: {x: 0.05002767, y: -0.9412963, z: 0.16110018, w: 0.29241297}
+  m_Size:
+    m_Target: 26.448193
+    speed: 2
+    m_Value: 25.309275
+>>>>>>> Veeti
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Speed: 1.0005
     m_SpeedNormalized: 0.49999997
@@ -1099,6 +1284,10 @@ MonoBehaviour:
     m_Speed: 1
     m_SpeedNormalized: 0.5
 >>>>>>> Kaspian
+=======
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+>>>>>>> Veeti
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1110,10 +1299,14 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0.45785573, y: -0.25937563, z: 0.1416368, w: 0.8384811}
 =======
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
 >>>>>>> Kaspian
+=======
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+>>>>>>> Veeti
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -1141,6 +1334,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 651
     y: 73
     width: 1974
@@ -1151,6 +1345,12 @@ MonoBehaviour:
     width: 1975
     height: 749
 >>>>>>> Kaspian
+=======
+    x: 650
+    y: 73
+    width: 1975
+    height: 879
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1168,10 +1368,14 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1974, y: 727}
 =======
   m_TargetSize: {x: 1975, y: 728}
 >>>>>>> Kaspian
+=======
+  m_TargetSize: {x: 1975, y: 858}
+>>>>>>> Veeti
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1187,6 +1391,7 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -987
     m_HBaseRangeMax: 987
     m_VBaseRangeMin: -363.5
@@ -1197,6 +1402,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -364
     m_VBaseRangeMax: 364
 >>>>>>> Kaspian
+=======
+    m_HBaseRangeMin: -987.5
+    m_HBaseRangeMax: 987.5
+    m_VBaseRangeMin: -429
+    m_VBaseRangeMax: 429
+>>>>>>> Veeti
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1205,7 +1416,11 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
+<<<<<<< HEAD
     m_EnableMouseInput: 0
+=======
+    m_EnableMouseInput: 1
+>>>>>>> Veeti
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1214,6 +1429,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
 <<<<<<< HEAD
       width: 1974
       height: 727
@@ -1225,12 +1441,19 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 987.5, y: 364}
 >>>>>>> Kaspian
+=======
+      width: 1975
+      height: 858
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 987.5, y: 429}
+>>>>>>> Veeti
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -987
       y: -363.5
@@ -1248,6 +1471,15 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1975, y: 749}
 >>>>>>> Kaspian
+=======
+      x: -987.5
+      y: -429
+      width: 1975
+      height: 858
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1975, y: 879}
+>>>>>>> Veeti
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1274,16 +1506,22 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 842
     width: 2626
     height: 509
 =======
+=======
+>>>>>>> Veeti
     x: 2249
     y: 726.5
     width: 920
     height: 250
+<<<<<<< HEAD
 >>>>>>> Kaspian
+=======
+>>>>>>> Veeti
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
