@@ -8,6 +8,13 @@ public class EnemyChase : MonoBehaviour
     public float stoppingDistance = 1.5f; // How close the enemy will get to the player
     public LayerMask obstacleMask; // LayerMask to identify obstacles
 
+    private PlayerMovement playerMovement; // Reference to the PlayerMovement script
+
+    private void Start()
+    {
+        playerMovement = player.GetComponent<PlayerMovement>(); // Get the PlayerMovement component
+    }
+
     private void Update()
     {
         float distance = Vector3.Distance(transform.position, player.position);
@@ -15,6 +22,12 @@ public class EnemyChase : MonoBehaviour
         // If the player is within the chase distance
         if (distance < chaseDistance)
         {
+            // Check if the player is crouching
+            if (playerMovement.IsCrouching())
+            {
+                return; // If crouching, do not chase
+            }
+
             Vector3 direction = (player.position - transform.position).normalized; // Get the direction to the player
 
             // Check if the enemy is within the stopping distance
@@ -29,7 +42,6 @@ public class EnemyChase : MonoBehaviour
                 else
                 {
                     // Optional: Logic when blocked, e.g., idle or patrol
-                    // You can implement more sophisticated behavior here
                 }
             }
         }
