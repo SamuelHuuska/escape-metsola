@@ -13,7 +13,7 @@ public class LevelTrigger : MonoBehaviour
             if (collectibleCount.GetScore() >= requiredScore)
             {
                 // Load the scene named "End"
-                SceneManager.LoadScene("End");
+                SceneManager.LoadScene("Main Menu");
             }
             else
             {

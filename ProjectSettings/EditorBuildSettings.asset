@@ -6,20 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< HEAD
-    path: Assets/Scenes/Metsola.unity
-    guid: 57415e5e8cc986c49a5a91c89e95994f
-  - enabled: 1
-    path: Assets/Scenes/objects.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 45e607cf47712d44cb67f8ecf940df79
-=======
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: a27835607e0216e45a4e367ab7e29eee
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/End.unity
     guid: bd8ec0b04d0522843a42423d8e6f80d7
->>>>>>> origin/main
   m_configObjects: {}

@@ -74,7 +74,9 @@ public class EnemyChase : MonoBehaviour
         if (other.transform == player)
         {
             // Load the "End" scene when the enemy touches the player
-            SceneManager.LoadScene("End");
+            SceneManager.LoadScene("Main Menu");
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
         }
     }
 }
