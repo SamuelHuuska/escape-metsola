@@ -14,7 +14,7 @@ public class Collectible : MonoBehaviour
 
     void Update()
     {
-        transform.localRotation = Quaternion.Euler(90f, Time.time * 100f, 0);
+        transform.localRotation = Quaternion.Euler(0, Time.time * 100f, 0);
     }
 
     void OnTriggerEnter(Collider other)
