@@ -6,16 +6,21 @@ using TMPro;
 public class CollectibleCount : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI ScoreText;
-    int score;
+    private int score;
 
     void Start()
     {
-        ScoreText.text = score + "/8";
+        ScoreText.text = score + "/5";
     }
 
     public void IncreaseScore()
     {
         score++;
-        ScoreText.text = score + "/8";
+        ScoreText.text = score + "/5";
+    }
+
+    public int GetScore()
+    {
+        return score;
     }
 }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // Include this for scene management
 
 public class EnemyChase : MonoBehaviour
 {
@@ -9,10 +10,12 @@ public class EnemyChase : MonoBehaviour
     public LayerMask obstacleMask; // LayerMask to identify obstacles
 
     private PlayerMovement playerMovement; // Reference to the PlayerMovement script
+    private CharacterController characterController; // CharacterController for collision detection
 
     private void Start()
     {
         playerMovement = player.GetComponent<PlayerMovement>(); // Get the PlayerMovement component
+        characterController = GetComponent<CharacterController>(); // Get the CharacterController component
     }
 
     private void Update()
@@ -37,13 +40,41 @@ public class EnemyChase : MonoBehaviour
                 if (!Physics.Raycast(transform.position, direction, distance, obstacleMask))
                 {
                     // Move towards the player if there's no obstacle
-                    transform.position += direction * speed * Time.deltaTime;
-                }
-                else
-                {
-                    // Optional: Logic when blocked, e.g., idle or patrol
+                    characterController.Move(direction * speed * Time.deltaTime);
                 }
             }
+            else
+            {
+                // Check for scene change if the enemy is within the stopping distance
+                OnTriggerEnter(player.GetComponent<Collider>());
+            }
+
+            // Always look at the player
+            LookAtPlayer();
+        }
+    }
+
+    private void LookAtPlayer()
+    {
+        Vector3 lookDirection = player.position - transform.position;
+        lookDirection.y = 0; // Keep the enemy's rotation only on the Y-axis
+        Quaternion rotation = Quaternion.LookRotation(lookDirection);
+
+        // Smooth rotation and lock the X-axis
+        transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * 5f);
+
+        // Ensure the X rotation is locked
+        Vector3 eulerAngles = transform.rotation.eulerAngles;
+        eulerAngles.x = -90; // Lock X rotation
+        transform.rotation = Quaternion.Euler(eulerAngles);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.transform == player)
+        {
+            // Load the "End" scene when the enemy touches the player
+            SceneManager.LoadScene("End");
         }
     }
 }
